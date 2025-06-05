@@ -1,1 +1,4 @@
-# API-Testing
+- `/api-server:` Mock API implementation using JSON Server; includes db.json, dependencies, and start script;
+- `collection.json:` Postman collection with automated API tests for all endpoints defined in the task;
+- `postman-report.json:` Postman run result export file;
+- `test-coverage.md:` The document describes which checks have been implemented and contains some necessary comments.
